@@ -1,0 +1,27 @@
+Glonix/
+├── public/
+│   └── index.html
+├── src/
+│   ├── assets/
+│   │   └── Product_Page/
+│   │       ├── Microcontroller.jpg
+│   │       ├── Soldering_machine.jpeg
+│   │       ├── Sensor.jpeg
+│   │       ├── ... (other images)
+│   ├── components/
+│   │   ├── Header/
+│   │   │   └── Header.jsx
+│   │   ├── Footer/
+│   │   │   └── Footer.jsx
+│   │   └── SkeletonCard.jsx
+│   ├── data/
+│   │   └── products.json
+│   ├── Page/
+│   │   ├── ProductPage.jsx
+│   │   └── ProductDetail.jsx
+│   ├── App.jsx
+│   ├── Home.jsx
+│   └── index.js
+├── package.json
+├── tailwind.config.js (if using Tailwind)
+└── ... (other config files)
